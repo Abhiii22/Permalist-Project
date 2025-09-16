@@ -11,7 +11,7 @@ A simple, yet powerful, to-do list web application that saves your tasks permane
 * **Delete Tasks**: Remove completed or unwanted tasks with a single click.
 * **Persistent Storage**: Your tasks are saved in a PostgreSQL database, so they'll be there every time you come back.
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
